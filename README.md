@@ -2,9 +2,18 @@
 
 ## Project Overview
 
-This project analyzes real Hong Kong government job vacancy data to understand salary trends, department differences, and the impact of experience on compensation.
+This project analyzes real Hong Kong government job vacancy data to uncover salary patterns, department trends, and the impact of experience on compensation.
 
-The goal is to demonstrate practical data analysis skills using Python, SQL, and Excel with a real-world dataset.
+It demonstrates an end-to-end data workflow including data collection, cleaning, SQL analysis, and visualization.
+
+---
+
+## Summary
+
+- Average salary: HKD 57,020  
+- Salary range: HKD 11,500 – HKD 137,085  
+- Highest paying departments: Lands Department, Department of Health, Fire Services Department  
+- Salary increases with experience, with the largest jump from Entry to Mid level  
 
 ---
 
@@ -27,14 +36,24 @@ The dataset can be reproduced using the provided Python script.
 
 ---
 
+## Data Dictionary
+
+- jobname: Job title  
+- deptnamejve: Department name  
+- entrypay: Raw salary description  
+- salary: Extracted numeric salary (HKD)  
+- expfrom: Minimum years of experience  
+- experience_level: Entry / Mid / Senior  
+- salary_level: High (>=60000) / Low (<60000)  
+
+---
+
 ## Key Insights
 
 ### Salary Overview
 
 - Average monthly salary: HKD 57,020  
 - Salary range: HKD 11,500 – HKD 137,085  
-
-This indicates a wide variation across job levels and roles.
 
 ---
 
@@ -44,52 +63,54 @@ This indicates a wide variation across job levels and roles.
 - Department of Health (~HKD 105K)  
 - Fire Services Department (~HKD 99K)  
 
-These roles are typically technical or professional positions.
-
 ---
 
 ### Salary vs Experience
 
 - Salary increases with experience  
-- The largest increase occurs between Entry to Mid level  
-- Salary growth becomes more stable at Senior level  
-
----
-
-### Salary Distribution
-
-- Most jobs fall within HKD 20K – 50K  
-- High-paying jobs are fewer but significantly higher  
-
----
-
-### High vs Low Salary Analysis
-
-- Entry-level roles are mostly low-paying  
-- Mid and Senior roles have a higher proportion of high-paying jobs  
-- Experience plays a key role in accessing higher salary opportunities  
+- Largest increase from Entry to Mid level  
 
 ---
 
 ## Visualizations
 
-### Top 10 Departments by Salary  
-Top10
+### Top 10 Departments by Salary
 
-### Salary Distribution  
-Distribution
+Top 10 Departments
 
-### Salary by Experience  
-Experience
+High-paying roles are concentrated in technical and specialized departments.
 
-### High vs Low Salary by Experience  
+---
+
+### Salary Distribution
+
+Salary Distribution
+
+Most job opportunities are concentrated in the mid-salary range.
+
+---
+
+### Salary by Experience
+
+Salary by Experience
+
+Salary growth is strongest from Entry to Mid level.
+
+---
+
+### High vs Low Salary by Experience
+
 Salary Level
+
+Higher experience levels are associated with a greater proportion of high-paying roles.
 
 ---
 
 ## SQL Analysis
 
-Example query:
+These SQL queries are used to validate and support the insights shown in the visualizations.
+
+Example:
 
 SELECT experience_level, AVG(salary)
 FROM gov_jobs
@@ -101,22 +122,21 @@ sql/analysis.sql
 
 ---
 
-## How to Run
+## Business Value
 
-1. Run the Python script to fetch and clean data  
-2. Generate processed dataset (CSV + SQLite)  
-3. Run SQL queries for analysis  
+This analysis helps identify:
+
+- Which departments offer higher salary potential  
+- How experience affects earning potential  
+- Where most job opportunities are concentrated  
 
 ---
 
-## Conclusion
+## How to Reproduce
 
-This project demonstrates the ability to:
-
-- Clean and transform real-world data using Python  
-- Perform structured analysis using SQL  
-- Communicate insights through visualizations  
-- Present a complete data analysis workflow  
+pip install -r requirements.txt  
+python scripts/fetch_data.py  
+python scripts/sql_analysis.py  
 
 ---
 
