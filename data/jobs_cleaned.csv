@@ -1,1 +1,67 @@
+﻿jobname,deptnamejve,entrypay,enddate,expfrom,expto,salary,is_monthly,experience_level,salary_level
+Senior Clinician (Orthodontics),Department of Health,"Full-time: HK$137,085 per month (plus end-of-contract gratuity) 
+Part-time: HK$780 per hour",2099-12-31 23:59:00,0,,137085,True,Entry,High
+Contract Dentist (Orthodontics),Department of Health,"Full-time: HK$93,255 per month (plus end-of-contract gratuity)
+Part-time: HK$549 per hour
 
+",2099-12-31 23:59:00,0,,93255,True,Entry,High
+Contract Senior Doctor (Antimicrobial Resistance),Department of Health,"Monthly salary at HK$137,085 plus end-of-contract gratuity.",2099-12-31 23:59:00,0,,137085,True,Entry,High
+Temporary Teacher (Government Secondary School),Education Bureau,"$35,080 per month",2099-12-31 23:59:00,0,,35080,True,Entry,Low
+Temporary Laboratory Technician II,Education Bureau,"$23,585 per month",2099-12-31 23:59:00,0,,23585,True,Entry,Low
+Temporary Teacher (Government Primary School),Education Bureau,"$38,715 per month",2099-12-31 23:59:00,0,,38715,True,Entry,Low
+Contract Senior Doctor (Private Healthcare Facilities) ,Department of Health,"Monthly salary at HK$137,085 plus end-of-contract gratuity.",2099-12-31 23:59:00,0,,137085,True,Entry,High
+Various posts in Government Secondary and Primary Schools,Education Bureau,"Monthly salary start at HK$14,710 depending on post applied for",2099-12-31 23:59:00,0,,14710,True,Entry,Low
+Dental Officer,Department of Health,"Master Pay Scale Point 30 (HK$71,010 per month) to Master Pay Scale Point 44 (HK$119,650 per month) [See Note (1)]",2099-12-31 23:59:00,0,,119650,True,Entry,High
+Dental Hygienist,Department of Health,"Master Pay Scale Point 5 (HK$19,535 per month) to Master Pay Scale Point 19 (HK$42,640 per month) [See Note (1)]",2099-12-31 23:59:00,0,,42640,True,Entry,Low
+Police Constable,Hong Kong Police Force,"Police Pay Scale Point 4 ($28,940) to Police Pay Scale Point 17 ($42,390) (Note 1) per month",2099-12-31 23:59:00,0,,42390,True,Entry,Low
+Police Inspector,Hong Kong Police Force,"Police Pay Scale Point 24 ($52,015) (as commensurate with respective entry qualifications) to Police Pay Scale Point 43 ($99,500) (Note 1) per month",2099-12-31 23:59:00,0,,99500,True,Entry,High
+Contract Doctor,Department of Health,"Monthly salary at HK$71,010 - HK$101,775 depending on relevant qualification and experience, plus end-of-contract gratuity.  ",2099-12-31 23:59:00,0,,101775,True,Entry,High
+Contract Senior Doctor (Infection Control),Department of Health,"Monthly salary at HK$137,085 plus end-of-contract gratuity.",2099-12-31 23:59:00,0,,137085,True,Entry,High
+Contract Senior Doctor (Communicable Disease Branch),Department of Health,"Monthly salary at HK$137,085 plus end-of-contract gratuity.",2099-12-31 23:59:00,0,,137085,True,Entry,High
+Registered Nurse,Department of Health,"Master Pay Scale Point 15 ($35,080 per month) to Master Pay Scale Point 25 ($56,450 per month)",2099-12-31 23:59:00,0,,56450,True,Entry,Low
+Medical and Health Officer,Department of Health,"Master Pay Scale Point 32 ($77,855) to Master Pay Scale Point 44B ($132,275) per month (See Notes (1)&(2)).",2099-12-31 23:59:00,0,,132275,True,Entry,High
+Contract Clinician (Social Hygiene Service),Department of Health,"Monthly salary at HK$101,775, plus 15% end-of-contract gratuity",2099-12-31 23:59:00,3,,101775,True,Mid,High
+Contract Clinician (Child Assessment Service),Department of Health,"Monthly salary at HK$101,775, plus 15% end-of-contract gratuity.  ",2099-12-31 23:59:00,3,,101775,True,Mid,High
+Contract Clinician (Tuberculosis and Chest Service),Department of Health,"Monthly salary at HK$101,775, plus 15% end-of-contract gratuity.  ",2099-12-31 23:59:00,3,,101775,True,Mid,High
+Artisan,"Agriculture, Fisheries and Conservation Department","Master Pay Scale Point 5 ($19,535) to Master Pay Scale Point 8 ($23,585) per month",2099-12-31 23:59:00,3,,23585,True,Mid,Low
+Station Officer (Operational),Fire Services Department,"Disciplined Services (Officer) Pay Scale Point 8 ($48,335) per month to Disciplined Services (Officer) Pay Scale Point 27 [Note (a)]($99,500) per month.",2099-12-31 23:59:00,0,,99500,True,Entry,High
+Customs Officer,Customs and Excise Department,"Disciplined Services (Rank and File) Pay Scale Point 5 (HKD$25,470 per month) to Disciplined Services (Rank and File) Pay Scale Point 16 (HKD$36,270 per month)",2099-12-31 23:59:00,0,,36270,True,Entry,Low
+Assistant Clerical Officer,Various Government Bureaux and Departments,"Master Pay Scale Point 3 (HK$17,200 per month) to Master Pay Scale Point 15 (HK$35,080 per month)",2099-12-31 23:59:00,0,,35080,True,Entry,Low
+Clerical Assistant,Various Government Bureaux and Departments,"Master Pay Scale Point 1 (HK$15,180 per month) to Master Pay Scale Point 10 (HK$26,590 per month).",2099-12-31 23:59:00,0,,26590,True,Entry,Low
+Personal Secretary II,Various Government Bureaux and Departments,"Master Pay Scale Point 4 (HK$18,305 per month) to Master Pay Scale Point 15 (HK$35,080 per month).",2099-12-31 23:59:00,0,,35080,True,Entry,Low
+Project Coordinator ,Home Affairs Department,"$18,200 per month",2026-04-28 17:00:00,0,,18200,True,Entry,Low
+Summer Intern (Hong Kong Public Libraries) – Post-Secondary Student Summer Internship Programme 2026,Leisure and Cultural Services Department,"$11,500 per month",2026-04-30 18:00:00,0,,11500,True,Entry,Low
+Estate Surveyor,Lands Department,"Master Pay Scale Point 30 (HK$71,010 per month) to Master Pay Scale Point 44 (HK$119,650 per month)",2026-05-04 23:59:00,1,,119650,True,Entry,High
+Summer Intern,Home Affairs Department,"$11,500 per month",2026-05-05 17:00:00,0,,11500,True,Entry,Low
+Post-Secondary Student Summer Internship Programme 2026 - Leisure Services Branch,Leisure and Cultural Services Department,"$11,500 per month",2026-04-23 18:00:00,0,,11500,True,Entry,Low
+Assistant Research Officer,Electrical and Mechanical Services Department,"HK$35,800 - HK$44,415 per month",2026-04-23 23:59:00,1,,44415,True,Entry,Low
+Analytical Testing Technician,Environmental Protection Department,"HK$19,120 per month",2026-04-24 18:00:00,0,,19120,True,Entry,Low
+Immigration Assistant,Immigration Department,"Disciplined Services (Rank and File) Pay Scale Point 4a (HK$25,115) to Disciplined Services (Rank and File) Pay Scale Point 15 (HK$35,255) per month",2099-12-31 23:59:00,0,,35255,True,Entry,Low
+Assistant Accounting Manager,Food and Environmental Hygiene Department,"HK$33,405 per month",2026-04-24 23:59:00,3,,33405,True,Mid,Low
+Curriculum Officer (Gifted Education) (EDB/EI/105/26),Education Bureau,"$82,330 per month",2026-04-24 23:59:00,6,,82330,True,Senior,High
+Contract Solicitor,Companies Registry,"HK$74,345 to HK$97,575 per month (depending on post-qualification experience)",2026-04-23 23:59:00,2,,97575,True,Entry,High
+"Curriculum Officer [School-based Curriculum Development (Secondary)] (EDB/ITE/107/26)
+",Education Bureau,"$82,330 per month",2026-04-24 23:59:00,6,,82330,True,Senior,High
+Project Assistant (Kindergarten Administration 2) (EDB/KGE/109/26),Education Bureau,"$35,080 per month",2026-04-24 23:59:00,6,,35080,True,Senior,Low
+Literacy Programme Consultant (Centralised Professional Development) (EDB/CDI/110/26),Education Bureau,"$82,330 per month",2026-04-30 23:59:00,6,,82330,True,Senior,High
+Works Supervisor II (Construction),Housing Department,"Master Pay Scale Point 9 ($25,115 per month) to Master Pay Scale Point 12 ($29,995 per month)",2026-04-24 23:59:00,0,,29995,True,Entry,Low
+Works Supervisor II,Correctional Services Department,"Master Pay Scale Point 9 ($25,115) to Master Pay Scale Point 12 ($29,995) per month.",2026-04-23 23:59:00,5,,29995,True,Mid,Low
+Multimedia Designer,Census and Statistics Department,"HK$36,850 per month",2026-04-30 23:59:00,3,,36850,True,Mid,Low
+Foreman,Food and Environmental Hygiene Department,"Master Pay Scale Point 7 ($22,145 per month) to Master Pay Scale Point 11 ($28,225 per month)",2026-04-24 23:59:00,2,,28225,True,Entry,Low
+"Senior Vice President, Global Connect",Invest Hong Kong,"HK$67,850 per month",2026-04-23 17:00:00,5,,67850,True,Mid,High
+Summer Intern (Analytical and Advisory Services Division),Government Laboratory,"$11,500 per month",2026-04-27 23:59:00,0,,11500,True,Entry,Low
+Summer Intern (Forensic Science Division),Government Laboratory,"$11,500 per month",2026-04-27 23:59:00,0,,11500,True,Entry,Low
+Training Officer I,Civil Service Bureau,"Master Pay Scale Point 28 ($64,780 per month) to Master Pay Scale Point 33 ($81,510 per month).",2026-05-08 23:59:00,4,,81510,True,Mid,High
+Statistical Officer II,Census and Statistics Department,"Master Pay Scale Point 8 (HK$23,585 per month) to Master Pay Scale Point 21 (HK$47,010 per month)",2026-04-30 23:59:00,0,,47010,True,Entry,Low
+Senior Artisan (Heavy Crane Driver),Marine Department,"Master Pay Scale Point 8 ($23,585 per month) to Master Pay Scale Point 10 ($26,590 per month)",2026-05-04 23:59:00,6,,26590,True,Senior,Low
+Post-Secondary Student Summer Internship Programme (Applicants may also be considered under the Vacation Training Scheme funded by the Development Bureau.  Separate application is not required.),Electrical and Mechanical Services Department,"$11,500 per month",2026-05-04 23:59:00,0,,11500,True,Entry,Low
+Assistant Manager (Digital Transformation),Digital Policy Office,"$35,200 per month",2026-05-04 17:00:00,2,,35200,True,Entry,Low
+Content Editor/Presenter (TV News and Current Affairs Programme),Radio Television Hong Kong,"HK$42,640 per month",2026-04-29 23:59:00,3,,42640,True,Mid,Low
+TV Cast Director/ Presenter,Radio Television Hong Kong,"HK$42,640 – HK$49,230 per month, depending on experience",2026-04-29 23:59:00,2,,49230,True,Entry,Low
+Technical Instructor (Precast Concrete),Correctional Services Department,"Disciplined Services (Officer) Pay Scale Point 5 ($40,495) to Disciplined Services (Officer) Pay Scale Point 15 ($68,720) per month.",2026-04-30 23:59:00,10,,68720,True,Senior,High
+Assistant Curator II (Conservation),Leisure and Cultural Services Department,"$27,090 per month",2026-04-30 23:59:00,0,,27090,True,Entry,Low
+Land Registration Officer II,Land Registry,"Master Pay Scale Point 10 (HK$26,590 per month) to Master Pay Scale Point 27 (HK$61,865 per month)",2026-05-04 23:59:00,0,,61865,True,Entry,High
+Dental Surgery Assistant,Department of Health,"Master Pay Scale Point 5 (HK$19,535 per month) to Master Pay Scale Point 17 (HK$38,715 per month).",2026-04-30 23:59:00,0,,38715,True,Entry,Low
+Project Coordinator,Home Affairs Department,"$18,200 per month",2026-04-30 23:59:00,0,,18200,True,Entry,Low
+Vacation Trainee (Building Surveying),Buildings Department,"HK$11,500 per month",2026-04-30 23:59:00,0,,11500,True,Entry,Low
+Vacation Trainee (Structural Engineering),Buildings Department,"HK$11,500 per month",2026-04-30 23:59:00,0,,11500,True,Entry,Low
