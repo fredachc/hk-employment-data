@@ -74,6 +74,8 @@ The dataset can be reproduced using the provided Python script.
 - Salary increases with experience  
 - Largest increase from Entry to Mid level  
 
+<img src="images/excel/3_Salary Growth by Experince Level.png" width="400">
+
 ---
 
 ## Visualizations
