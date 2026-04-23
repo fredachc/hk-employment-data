@@ -63,7 +63,9 @@ The dataset can be reproduced using the provided Python script.
 
 - Lands Department (~HKD 119K)  
 - Department of Health (~HKD 105K)  
-- Fire Services Department (~HKD 99K)  
+- Fire Services Department (~HKD 99K)
+
+<img src="images/excel/1_Top 10 HK GOV Departments by Average Monthly Salary.png" width="400">
 
 ---
 
