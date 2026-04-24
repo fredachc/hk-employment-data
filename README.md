@@ -55,7 +55,7 @@ The dataset can be reproduced using the provided Python script.
 - Average monthly salary: HKD 57,020  
 - Salary range: HKD 11,500 – HKD 137,085
 
-  <img src="images/sql/1_overall_avg_salary.png" width="400">
+  <img src="images/sql/1_overall_avg_salary.png" width="200">
 
 ---
 
