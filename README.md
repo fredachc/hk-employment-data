@@ -99,6 +99,8 @@ Most job opportunities are concentrated in the mid-salary range.
 
 <img src="images/sql/4_avg_salary_by_experience_level.png" width="320">
 
+<img src="images/excel/4_Salary Distribution by Experience Level.png" width="400">
+
 ---
 
 ### Salary by Experience
