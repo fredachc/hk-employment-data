@@ -74,8 +74,6 @@ The dataset can be reproduced using the provided Python script.
 - Salary increases with experience  
 - Largest increase from Entry to Mid level
 
-<img src="images/sql/4_avg_salary_by_experience_level.png" width="320">
-
 <img src="images/excel/3_Salary Growth by Experince Level.png" width="400">
 ---
 
@@ -99,6 +97,8 @@ Salary Distribution
 
 Most job opportunities are concentrated in the mid-salary range.
 
+<img src="images/sql/4_avg_salary_by_experience_level.png" width="320">
+
 ---
 
 ### Salary by Experience
@@ -107,6 +107,8 @@ Salary by Experience
 
 Salary growth is strongest from Entry to Mid level.
 
+<img src="images/sql/6_salary_level_distribution.png" width="320">
+
 ---
 
 ### High vs Low Salary by Experience
@@ -114,6 +116,8 @@ Salary growth is strongest from Entry to Mid level.
 Salary Level
 
 Higher experience levels are associated with a greater proportion of high-paying roles.
+
+<img src="images/sql/7_experience_level_vs_salary_level.png" width="320">
 
 ---
 
