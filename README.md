@@ -87,6 +87,10 @@ Top 10 Departments
 
 High-paying roles are concentrated in technical and specialized departments.
 
+<img src="images/sql/3_top_10_departments_by_avg_salary.png" width="320">
+
+<img src="images/excel/1_Top 10 HK GOV Departments by Average Monthly Salary.png" width="400">
+
 ---
 
 ### Salary Distribution
