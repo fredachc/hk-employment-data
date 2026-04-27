@@ -123,6 +123,42 @@ Higher experience levels are associated with a greater proportion of high-paying
 
 ---
 
+### Job Type Distribution
+
+- Civil service roles make up approximately 70% of job listings  
+- Non-civil service / contract roles account for around 30%
+
+<img src="images/excel/6_Job_Type_distribution.jpeg" width="400">
+
+**WHY:**  
+Civil service roles follow structured recruitment systems and standardized hiring processes, leading to higher listing volume, especially for entry-level positions.
+
+**SO WHAT:**  
+Entry-level candidates are more likely to encounter civil service opportunities due to higher availability.
+
+**DECISION:**  
+Candidates may consider civil service roles as an initial entry point to gain industry experience and exposure.
+
+---
+
+### Average Salary by Job Type
+
+- Civil Service: ~HKD 50,000  
+- Non-Civil Service / Contract: ~HKD 70,000
+
+<img src="images/excel/5_Average_Salary_by_Job_Type.jpeg" width="400">
+
+**WHY:**  
+Non-civil service roles are market-driven, with compensation influenced by demand, skill level, and performance-based pay. Civil service roles typically follow fixed salary structures.
+
+**SO WHAT:**  
+While civil service roles offer stability and availability, they may not provide the highest salary potential.
+
+**DECISION:**  
+Candidates seeking faster salary growth should consider transitioning to private sector or contract roles after gaining initial experience.
+
+---
+
 ## SQL Analysis
 
 These SQL queries are used to validate and support the insights shown in the visualizations.
